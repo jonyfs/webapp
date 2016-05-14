@@ -7,13 +7,15 @@
 
 ## How to...
 
-	[Configure a GitHub Project](https://github.com/jonyfs/webapp#github-configuration) 
+[Interactively create a Spring Boot Project Web Application](https://start.spring.io "title")
 
-	[Interactively create a Spring Boot Project Web Application](https://start.spring.io "title")
+[Configure a GitHub Project](https://github.com/jonyfs/webapp#github-configuration) 
 	
-	[Initialize a Git Project](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init "title")
+[Interactively create a npmjs package.json file](https://github.com/jonyfs/webapp#npmjs-configuration)
 	
-	[Interactively create a package.json file](https://docs.npmjs.com/cli/init "title") 
+### Spring Boot Configuration
+
+	Visit the  SPRING INITIALIZR page <https://start.spring.io> to create the spring boot application skeleton	
 	
 
 ### GitHub Configuration
@@ -24,6 +26,10 @@
 	git commit -m "first commit"
 	git remote add origin https://github.com/jonyfs/webapp.git
 	git push -u origin master
+	
+### npmjs Configuration
+
+	npm init
 
 ## Tools
 
