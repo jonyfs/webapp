@@ -1,0 +1,28 @@
+{
+  "name": "webapp",
+  "description": "a web application sample",
+  "main": "index.js",
+  "authors": [
+    "Jony Santos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webapp",
+    "sample",
+    "achitecture",
+    "spring",
+    "mongodb",
+    "angularjs"
+  ],
+  "homepage": "https://github.com/jonyfs/webapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.9"
+  }
+}
