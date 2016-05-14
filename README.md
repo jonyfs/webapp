@@ -12,6 +12,16 @@
 	[Initialize a Git Project](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init "title")
 	
 	[Interactively create a package.json file](https://docs.npmjs.com/cli/init "title") 
+	
+
+### GitHub Configuration
+
+	echo "# webapp" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/jonyfs/webapp.git
+	git push -u origin master
 
 ## Tools
 
