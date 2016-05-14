@@ -7,6 +7,8 @@
 
 ## How to...
 
+	[Configure a GitHub Project](https://github.com/jonyfs/webapp#github-configuration) 
+
 	[Interactively create a Spring Boot Project Web Application](https://start.spring.io "title")
 	
 	[Initialize a Git Project](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init "title")
